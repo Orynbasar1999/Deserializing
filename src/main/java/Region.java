@@ -1,0 +1,23 @@
+/**
+ * User: Sanzhar Aubakirov
+ * Date: 12/8/15
+ */
+public enum Region {
+    ASTANA,
+    ALMATY,
+    AKMOLA_REGION,
+    ALMATY_REGION,
+    AKTOBE_REGION,
+    ATYRAU_REGION,
+    KARAGANDA_REGION,
+    PAVLODAR_REGION,
+    SKO_REGION,
+    KOSTANAI_REGION,
+    MANGISTAU_REGION,
+    KYZYLORDA_REGION,
+    ZHAMBYL_REGION,
+    ZKO_REGION,
+    VKO_REGION,
+    UKO_REGION,
+    GLOBAL
+}
